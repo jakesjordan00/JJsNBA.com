@@ -6,3 +6,4 @@ Illegally aqcuire SQL server first -> https://thepiratebay.org/description.php?i
          never an issue
 
 After these are complete, or before, it doesn't really matter, go to NBA MSSQLServer Build Guide file and follow those steps
+ 
